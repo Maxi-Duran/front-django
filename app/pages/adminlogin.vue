@@ -6,7 +6,6 @@
       <div
         class="bg-gradient-to-r from-gray-800 to-gray-900 p-8 text-center text-white"
       >
-        <div class="text-5xl mb-4">🔐</div>
         <h1 class="text-3xl font-bold mb-2">Admin Panel</h1>
         <p class="text-lg opacity-90">Acceso exclusivo para administradores</p>
       </div>

@@ -59,7 +59,6 @@ export default {
       <div
         class="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-500 p-8 text-center text-white"
       >
-        <div class="text-6xl mb-4">🏨</div>
         <h1
           class="text-4xl font-bold mb-2 bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-pink-200"
         >
